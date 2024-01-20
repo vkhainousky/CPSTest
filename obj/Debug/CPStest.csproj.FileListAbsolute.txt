@@ -1,0 +1,10 @@
+C:\Users\Vlad\source\repos\CPStest\CPStest\bin\Debug\CPStest.exe.config
+C:\Users\Vlad\source\repos\CPStest\CPStest\bin\Debug\CPStest.exe
+C:\Users\Vlad\source\repos\CPStest\CPStest\bin\Debug\CPStest.pdb
+C:\Users\Vlad\source\repos\CPStest\CPStest\obj\Debug\CPStest.csproj.AssemblyReference.cache
+C:\Users\Vlad\source\repos\CPStest\CPStest\obj\Debug\CPStest.Form1.resources
+C:\Users\Vlad\source\repos\CPStest\CPStest\obj\Debug\CPStest.Properties.Resources.resources
+C:\Users\Vlad\source\repos\CPStest\CPStest\obj\Debug\CPStest.csproj.GenerateResource.cache
+C:\Users\Vlad\source\repos\CPStest\CPStest\obj\Debug\CPStest.csproj.CoreCompileInputs.cache
+C:\Users\Vlad\source\repos\CPStest\CPStest\obj\Debug\CPStest.exe
+C:\Users\Vlad\source\repos\CPStest\CPStest\obj\Debug\CPStest.pdb
